@@ -1,0 +1,41 @@
+
+.featured-plants{
+    padding-bottom: 1%;
+    margin: auto 5% 2% 5%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #E0E0E0;
+
+}
+
+.heading-featured-plants{
+    margin-left: 44%; 
+    font-weight: 500;
+    font-size: 170%;
+    line-height: 80%;
+    color: #000000;
+}
+
+.all-featured-plants{
+    margin: 0 5% 5% 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.name-plant{
+    font-size: 110%;
+    line-height: 95%;
+    text-align: center;
+    color: #000000;
+    padding-top: 10%;
+    padding-bottom: 4% ;
+}
+
+.price{
+    font-weight: 600;
+    font-size: 110%;
+    line-height: 80%;
+    text-align: center;
+    color: #000000;
+}

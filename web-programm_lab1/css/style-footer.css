@@ -1,0 +1,74 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #e0e0e0;
+    padding: 60px;
+}
+
+.plantku{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #156963;
+}
+
+.plantku-house{
+    margin-top: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #333333;
+}
+
+.plantku-adress{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #4f4f4f;
+}
+
+.head-footer{
+    padding: 0 80px 20px 80px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.content-footer{
+    padding: 0 80px 14px 80px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.fourth-heading-footer{
+    padding: 0 80px 14px 80px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.for-email{
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    opacity: 0.5;
+    padding: 0 80px 18px 80px;
+}
+
+.submit-button{
+    margin: 0 80px 34px 80px;
+    font-weight: 550;
+    font-size: 15px;
+    width: 100px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #ffffff;
+    background: #156963;
+    backdrop-filter: blur(10px);
+    border-radius: 2px;
+}
