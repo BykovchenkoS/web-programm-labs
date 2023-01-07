@@ -1,0 +1,331 @@
+.container-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 3%;
+
+
+}
+
+.left-container-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+.left-container-4 img{
+  padding-top: 1%;
+}
+
+.left-container-4 p{
+    width: 40%;
+    font-weight: 500;
+    line-height: 160%;
+    color: #2C1500;
+    padding-top: 2%;
+  }
+
+  .left-container-4 h3{
+    width: 40%;
+    height: 18%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 220%;
+    line-height: 150%;
+    color: #2C1500;
+  }
+  
+  .right-container-4{
+    margin-right: 15%;
+    margin-top: 3.5%;
+   
+  }
+  
+  .right-container-4 img{
+    padding-bottom: 20%;
+  }
+
+
+@media(max-width: 1400px){
+  .container-4{
+  padding-left: 2%;
+  }
+
+  .left-container-4 p{
+    width: 60%;
+  }
+
+  .left-container-4 h3{
+    margin-top: 9%;
+    margin-bottom: 1%;
+    width: 60%;
+  }
+
+  .left-container-4 img{
+    width: 70%;
+  }
+
+  .right-container-4{
+    margin-right: 10%;
+    margin-top: 1%;
+   
+  }
+
+}
+
+@media(max-width: 1200px) {
+  
+  
+    .left-container-4 p{
+      width: 80%;
+    }
+  
+    .left-container-4 h3{
+      margin-top: 9%;
+      margin-bottom: 1%;
+      width: 80%;
+    }
+  
+    .left-container-4 img{
+      width:90%;
+    }
+  
+    .right-container-4{
+      margin-right: 4%;
+      margin-top: 0;
+     
+    }
+
+  
+}
+
+@media(max-width: 1100px) {
+ 
+  .left-container-4 p{
+    width: 90%;
+    font-size: 90%;
+
+  }
+
+  .left-container-4 h3{
+    margin-top: 9%;
+    margin-bottom: 1%;
+    width: 90%;
+    font-size: 200%;
+    margin-top: 26%;
+
+  }
+
+  .left-container-4 img{
+    width:100%;
+  }
+
+  .right-container-4{
+    margin-right: 3%;
+    margin-left: 1%;
+    margin-top: 0;
+ 
+   
+  }
+
+
+}
+
+
+  @media(max-width: 980px){
+
+    .container-4{
+      padding-left: 1.5%;
+      }
+
+      .left-container-4{
+        width: 70%;
+      }
+    
+      .left-container-4 p{
+        width: 90%;
+      }
+    
+      .left-container-4 h3{
+        font-size: 180%;
+        margin-top: 0;
+
+        width: 90%;
+      }
+    
+      .left-container-4 img{
+        width: 96%;
+      }
+    
+      .right-container-4{
+        margin-top: 0;
+        margin-right: 2.5%;
+   
+      }
+      
+      .right-container-4 img{
+        width: 100%;
+   
+      }
+      
+  }
+
+  @media(max-width: 880px){
+
+    .left-container-4{
+      margin-left: 2%;
+    }
+
+    .left-container-4 p{
+      font-size: 80%;
+    }
+
+    .left-container-4 h3{
+      font-size: 150%;
+    }
+
+    .left-container-4 img{
+      width:93%;
+    }
+
+    .right-container-4 img{
+      width:95%;
+    }
+  }
+
+  @media(max-width: 705px){
+
+    .left-container-4{
+      margin-left: 5%;
+    }
+    .left-container-4 p{
+      font-size: 70%;
+    }
+
+    .left-container-4 h3{
+      font-size: 130%;
+    }
+
+    .left-container-4 img{
+      width:95%;
+    }
+
+    .right-container-4 img{
+      width: 90%;
+    }
+
+   
+  }
+
+  @media(max-width: 670px){
+
+    
+    .left-container-4 p{
+      font-size: 65%;
+    }
+
+    .left-container-4 h3{
+      font-size: 100%;
+    }
+    
+    .left-container-4 img{
+      width: 90%;
+    }
+
+    .right-container-4 img{
+      width: 83%;
+    }
+  
+  }
+
+  @media(max-width: 580px){
+
+    .left-container-4{
+      width: 90%;
+    }
+
+    .left-container-4 p{
+      width: 96%;
+    }
+
+    .left-container-4 h3{
+      width: 96%;
+    }
+    
+    .left-container-4 img{
+        width: 90%;
+    }
+
+    .right-container-4 img{
+      width: 96%;
+    }
+  
+  }
+
+  @media(max-width: 400px){
+    
+    .left-container-4{
+      width: 100%;
+    }
+
+    .left-container-4 p{
+      font-size: 75%;
+      width: 100%;
+    }
+
+    .left-container-4 h3{
+      font-size: 90%;
+      width: 100%
+   }
+
+    .left-container-4 img{
+       margin-left: 231%;
+       margin-top: -50%;
+       width: 129%;
+     
+    }
+  }
+
+  @media(max-width: 388px){
+    .left-container-4 img{
+      margin-top: -65%;
+      margin-left: 233%;
+   }
+  }
+
+  @media(max-width: 375px){
+    .left-container-4 img{
+      margin-left: 240%;
+      width: 135%;
+   }
+  }
+
+  @media(max-width: 365px){
+    .left-container-4{
+      width: 110%;
+    }
+
+    .left-container-4 p{
+      font-size: 70%;
+      width: 100%;
+    }
+
+    .left-container-4 h3{
+      font-size: 85%;
+      width: 100%
+   }
+    .right-container-4 img{
+      margin-left: 5%;
+      width: 85%;
+    }
+    .left-container-4 img{
+      margin-left: 230%;
+      width: 115%;
+   }
+  }
+
+
+
+  
